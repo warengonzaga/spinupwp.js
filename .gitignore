@@ -1,0 +1,14 @@
+# deepcode
+.dccache
+
+# nodejs
+node_modules
+
+# dotenv
+.env
+
+# npm
+package-lock.json
+
+# yarn
+.yarn
