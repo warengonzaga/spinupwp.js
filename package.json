@@ -1,0 +1,29 @@
+{
+  "name": "spinupwp.js",
+  "version": "1.0.0-alpha",
+  "description": "[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/releases) [![star](https://img.shields.io/github/stars/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/blob/main/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warengonzaga/spinupwp.js.git"
+  },
+  "keywords": [
+    "spinupwp",
+    "wordpress",
+    "server",
+    "api",
+    "sdk"
+  ],
+  "author": "Waren Gonzaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warengonzaga/spinupwp.js/issues"
+  },
+  "homepage": "https://github.com/warengonzaga/spinupwp.js#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
