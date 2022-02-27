@@ -6,7 +6,7 @@
 
 ---
 
-A simple and lightweight but powerful NodeJS client for **[SpinupWP](https://spinupwp.com/?referral=30LoZd9rpV)** API.
+Simple and lightweight community contributed JavaScript SDK for **[SpinupWP](https://spinupwp.com/?referral=30LoZd9rpV)** REST API. 💻🚀⚡
 
 ## 😎 Demo
 
@@ -38,7 +38,7 @@ For any questions, suggestions, ideas, or simply you want to share your experien
 
 ## 🐛 Issues
 
-If you're facing a problem in using SpinupWPJS please let me know by [creating an issue here](https://github.com/warengonzaga/spinupwp.js/issues/new). I'm here to help you!
+Please report any issues and bugs by [creating a new issue here](https://github.com/warengonzaga/spinupwp.js/issues/new/choose), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨
 
 ## 🍀 Sponsors and Supporters
 
