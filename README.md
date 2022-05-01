@@ -1,16 +1,12 @@
 # SpinupWPJS   [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/releases) [![star](https://img.shields.io/github/stars/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/blob/main/license)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/releases) [![star](https://img.shields.io/github/stars/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/spinupwp.js.svg?style=flat-square)](https://github.com/warengonzaga/spinupwp.js/blob/main/license)
 
-📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
+📢 Nominate ([@warengonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
 
 ---
 
-Simple and lightweight community contributed JavaScript SDK for **[SpinupWP](https://spinupwp.com/?referral=30LoZd9rpV)** REST API. 💻🚀⚡
-
-## 😎 Demo
-
-(coming soon demo...)
+Simple and lightweight community contributed JavaScript/TypeScript SDK for [SpinupWP](https://spinupwp.com/?referral=30LoZd9rpV) REST API. 💻🚀⚡
 
 ## ⚡ Features
 
@@ -18,9 +14,7 @@ Simple and lightweight community contributed JavaScript SDK for **[SpinupWP](htt
 
 ## 📖 Documentation
 
-The complete documentation can be found here:
-
-[![docs](https://img.shields.io/badge/Docs-docs.warengonzaga.com/SpinupWPJS-blue.svg?longCache=true&style=for-the-badge)](https://docs.warengonzaga.com/spinupwpjs)
+Learn more: _[docs.warengonzaga.com/spinupwpjs](https://docs.warengonzaga.com/spinupwpjs)_
 
 ## 🕹️ Usage
 
@@ -61,4 +55,4 @@ SpinupWPJS is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, w
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/9vh6Dz9oh8I?t=85) 🙏
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
