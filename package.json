@@ -2,9 +2,9 @@
   "name": "spinupwp.js",
   "version": "1.0.0-alpha",
   "description": "Simple and lightweight community contributed JavaScript SDK for SpinupWP REST API.",
-  "source": "src/index.ts",
+  "source": "src/index.js",
   "main": "dist/spinupwp.js",
-  "types": "dist/index.d.ts",
+  "module": "dist/module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +26,8 @@
   },
   "homepage": "https://spinupwp.js.org",
   "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "parcel": "^2.5.0",
     "typescript": "^4.5.5"
   },
   "dependencies": {
